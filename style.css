@@ -1,0 +1,30 @@
+  *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  
+  body {
+      background: linear-gradient(260deg, #3333c5 0%, #7d88bd 100%);
+      color: white;
+  }
+
+  ._nav{
+      background-color: black;
+      height: 50px;
+  }
+
+  a {
+      color: greenyellow;
+      font-size: 2rem;
+  }
+
+  img {
+      height: 150px;
+      width: 150px;
+      margin: 10px;
+  }
+
+  hr {
+      background: black;
+  }
